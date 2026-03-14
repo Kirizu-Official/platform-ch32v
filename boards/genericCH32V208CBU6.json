@@ -33,7 +33,7 @@
   "name": "Generic CH32V208CBU6",
   "upload": {
     "maximum_ram_size": 65536,
-    "maximum_size": 131072,
+    "maximum_size": 458752,
     "protocol": "wch-link",
     "protocols": [
       "wch-link",
